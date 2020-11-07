@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blog</title>
-    <link>http://abhi96shah.github.io/bout_to_get_flagged/tags/</link>
+    <link>https://abhi96shah.github.io/bout_to_get_flagged/tags/</link>
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Abhishek S 2020</copyright><atom:link href="http://abhi96shah.github.io/bout_to_get_flagged/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Abhishek S 2020</copyright><atom:link href="https://abhi96shah.github.io/bout_to_get_flagged/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
