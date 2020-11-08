@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://magikbytes.team/</loc>
+    <loc>/blog/blog/</loc>
     <lastmod>2020-11-07T20:05:30-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://magikbytes.team/blog/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2020-11-07T20:05:30-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://magikbytes.team/blog/</loc>
+    <loc>/</loc>
     <lastmod>2020-11-07T20:05:30-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://magikbytes.team/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2020-11-07T17:18:09-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://magikbytes.team/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://magikbytes.team/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
