@@ -6,14 +6,15 @@
     <description>Recent content in Blogs on MagikBytes Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; MagikBytes Team</copyright>
     <lastBuildDate>Sat, 07 Nov 2020 20:05:30 -0500</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
-      <link>/blog/blog/</link>
+      <title>Our very first blog</title>
+      <link>/blog/blog1/</link>
       <pubDate>Sat, 07 Nov 2020 20:05:30 -0500</pubDate>
       
-      <guid>/blog/blog/</guid>
-      <description></description>
+      <guid>/blog/blog1/</guid>
+      <description>This blog&amp;rsquo;s purpose is to test our theme  Following is a code snippet:  import string print(&amp;#34;Hello World&amp;#34;)  This is the second bullet  </description>
     </item>
     
   </channel>
