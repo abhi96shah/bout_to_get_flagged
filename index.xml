@@ -3,29 +3,29 @@
   <channel>
     <title>MagikBytes Blog</title>
     <link>/</link>
-    <description>Recent content on MagikBytes Blog</description>
+    <description>A Blog by Abhishek Shah &amp; Sanchit Sokhey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>MagikBytes Team</copyright>
+    <copyright>© MagikBytes Team</copyright>
     <lastBuildDate>Sat, 07 Nov 2020 20:05:30 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contact</title>
-      <link>/contact/</link>
-      <pubDate>Sun, 08 Nov 2020 00:36:59 -0500</pubDate>
-      
-      <guid>/contact/</guid>
-      <description>You can reach us at:
- sokhey.s@northeastern.edu shah.ab@northeastern.edu  </description>
-    </item>
+      <item>
+        <title>Our very first blog</title>
+        <link>/blog/blog1/</link>
+        <pubDate>Sat, 07 Nov 2020 20:05:30 -0500</pubDate>
+        
+        <guid>/blog/blog1/</guid>
+        <description> This blog&amp;rsquo;s purpose is to test our theme  Following is a code snippet:  import string print(&amp;#34;Hello World&amp;#34;)  This is the second bullet 2️⃣  </description>
+      </item>
     
-    <item>
-      <title>Our very first blog</title>
-      <link>/blog/blog1/</link>
-      <pubDate>Sat, 07 Nov 2020 20:05:30 -0500</pubDate>
-      
-      <guid>/blog/blog1/</guid>
-      <description>This blog&amp;rsquo;s purpose is to test our theme  Following is a code snippet:  import string print(&amp;#34;Hello World&amp;#34;)  This is the second bullet 2️⃣  </description>
-    </item>
+      <item>
+        <title>Contact</title>
+        <link>/contact/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>/contact/</guid>
+        <description>You can reach us at:
+ sokhey.s@northeastern.edu shah.ab@northeastern.edu  </description>
+      </item>
     
   </channel>
 </rss>
